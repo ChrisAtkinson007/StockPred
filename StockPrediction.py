@@ -1,3 +1,5 @@
+'''Code based on Youtube video by NeuralNine '''
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
